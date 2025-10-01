@@ -1,0 +1,18 @@
+# Archivos temporales
+*.log
+*.tmp
+/tmp/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias (si usas npm/node en el futuro)
+node_modules/
+package-lock.json
